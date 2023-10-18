@@ -61,5 +61,4 @@ int main() {
 
 // https://Matthewtershi:@github.com/Matthewtershi/gitTutorial.git
 
-//  git remote add origin
-//  https://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@github.com/Matthewtershi/gitTutorial.git
+//  git remote add origin https://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@github.com/Matthewtershi/gitTutorial.git
